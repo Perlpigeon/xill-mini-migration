@@ -1,0 +1,6 @@
+use System, String,Math;
+
+var minutes = 6.783333333333333;
+
+var result = Math.round(minutes);
+System.print(result);
